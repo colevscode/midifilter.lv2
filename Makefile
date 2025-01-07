@@ -1,5 +1,5 @@
 #!/usr/bin/make -f
-PREFIX ?= /usr/local
+PREFIX ?= /usr
 
 PKG_CONFIG?=pkg-config
 STRIP?=strip
